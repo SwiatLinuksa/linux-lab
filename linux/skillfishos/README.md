@@ -92,7 +92,7 @@ PROCESSOR    100% GPU
 
 # Dodatkowe poradniki
 
-- [locale.md](locale.md) — zmiana języka z włoskiego (ITA) na angielski (ENG).
+- [locale.md](change_locale.md) — zmiana języka z włoskiego (ITA) na angielski (ENG).
 
 ---
 

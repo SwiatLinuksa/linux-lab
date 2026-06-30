@@ -1,6 +1,6 @@
 # SkillFishOS
 
-SkillFishOS to dystrybucja oparta na Debianie 13 (Trixie), testowana na platformie AMD BC250.
+SkillFishOS to dystrybucja oparta na Debianie SID (Experimental), testowana na platformie AMD BC250.
 
 Ten dział zawiera najczęściej spotykane problemy napotkane podczas testów oraz sprawdzone rozwiązania.
 
@@ -48,7 +48,7 @@ sudo usermod -aG docker $USER
 
 Następnie wylogować się i zalogować ponownie.
 
-> Status: zgłoszono jako błąd w repozytorium SkillFishOS.
+> Status: zgłoszono jako błąd w oryginalnym repozytorium SkillFishOS.
 
 ---
 
@@ -86,7 +86,7 @@ Prawidłowy wynik:
 PROCESSOR    100% GPU
 ```
 
-> Status: zgłoszono jako błąd w repozytorium SkillFishOS.
+> Status: zgłoszono jako błąd w oryginalnym repozytorium SkillFishOS.
 
 ---
 

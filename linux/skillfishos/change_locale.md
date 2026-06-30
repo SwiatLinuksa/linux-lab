@@ -212,5 +212,7 @@ Po wykonaniu wszystkich kroków:
 
 ## Powiązane
 
-- README.md — najczęściej spotykane problemy SkillFishOS.
-- GitHub Issue #11 — zgłoszenie błędu dotyczącego locale.
+- [README SkillFishOS](README.md) - Najczęściej spotykane błędy w SkillFishOS
+- [Poradnik zmiany języka (ITA → ENG)](change_locale.md)
+- [Zgłoszenie błędu Locale w oryginalnym repozytorium SkillFishOS](https://github.com/MTSistemi/SkillFishOS/issues/11)
+- [Oryginalne repozytorium SkillFishOS](https://github.com/MTSistemi/SkillFishOS)

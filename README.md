@@ -2,7 +2,7 @@
 
 Repozytorium zawiera praktyczne notatki techniczne, eksperymenty oraz rozwiązania problemów napotkanych podczas pracy z systemem Linux i oprogramowaniem Open Source.
 
-Powstało jako uzupełnienie kanału YouTube **Świat Linuksa**.
+Powstało jako uzupełnienie kanału YouTube **[Świat Linuksa](https://www.youtube.com/@SwiatLinuksa)**.
 
 ## Cel projektu
 
@@ -26,33 +26,55 @@ Jeżeli komuś przy okazji pomoże — będzie mi bardzo miło.
 
 ## Główne działy
 
-- Linux
-- Hardware
-- Gaming
-- AI
-- Open Source
-- Sciagi
+### Linux
+
+- [SkillFishOS](linux/skillfishos/README.md)
+
+### Gaming
+
+*(wkrótce)*
+
+### ARM / Risc-V / SBC
+*(wkrótce)*
+
+### AI
+
+*(wkrótce)*
+
+### Moje konfigi - dotfiles
+
+*(wkrótce)*
+
+### Ściągi
+
+*(wkrótce)*
 
 ---
 
-## Struktura repozytorium
+## Organizacja dokumentacji
 
-Każdy katalog zawiera notatki, poradniki i rozwiązania problemów z danego obszaru.
+Każdy dział zawiera dokumentację dotyczącą konkretnego tematu.
 
 Przykład:
 
-```
+```text
 linux/
-hardware/
-gaming/
-ai/
-opensource/
-cheatsheets/
+└── skillfishos/
+    ├── README.md
+    └── change_locale.md
 ```
 
 W miarę rozwoju repozytorium poszczególne działy mogą zostać podzielone na bardziej szczegółowe katalogi.
 
 ---
+
+## Kontakt
+
+Jeżeli znalazłeś błąd w dokumentacji lub masz propozycję poprawki, utwórz Issue albo Pull Request.
+
+🎥 YouTube: [Świat Linuksa](https://www.youtube.com/@SwiatLinuksa)
+
+⭐ GitHub: linux-lab
 
 ## Licencja
 

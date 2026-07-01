@@ -74,8 +74,15 @@ Jeżeli znalazłeś błąd w dokumentacji lub masz propozycję poprawki, utwórz
 
 🎥 YouTube: [Świat Linuksa](https://www.youtube.com/@SwiatLinuksa)
 
-⭐ GitHub: linux-lab
+⭐ GitHub: [Profil Świat Linuksa](https://github.com/swiatlinuksa)
 
+## ☕ Wsparcie projektu
+
+Jeżeli dokumentacja pomogła Ci rozwiązać problem lub zaoszczędziła Twój czas, możesz wesprzeć dalszy rozwój projektu Linux Lab.
+
+- ❤️ **Tipply:** https://tipply.pl/u/swiatlinuksa
+- 💙 **PayPal:** https://www.paypal.com/paypalme/swiatlinuksa
+- 
 ## Licencja
 
 Treść dokumentacji można wykorzystywać z podaniem źródła.

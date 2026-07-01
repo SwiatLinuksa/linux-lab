@@ -2,7 +2,14 @@
 
 SkillFishOS to dystrybucja oparta na Debianie SID (Experimental), testowana na platformie AMD BC250.
 
-Ten dział zawiera najczęściej spotykane problemy napotkane podczas testów oraz sprawdzone rozwiązania.
+Ten dział zawiera spotykane przezemnie problemy podczas testów oraz sprawdzone rozwiązania.
+
+---
+
+> Dokumentacja dotyczy dystrybucji SkillFishOS.
+
+**Oficjalne repozytorium projektu:**
+https://github.com/MTSistemi/SkillFishOS
 
 ---
 
@@ -10,13 +17,13 @@ Ten dział zawiera najczęściej spotykane problemy napotkane podczas testów or
 
 **Platforma:** AMD BC250
 
-**System:** SkillFishOS
+**System:** SkillFishOS 26.06 "Aetherium" Debian SID KDE Plasma
 
 ---
 
 # Znane problemy
 
-## 1. Btrfs / GRUB Rescue
+## 1. Instalator Calamares Btrfs / GRUB Rescue
 
 ### Objawy
 
@@ -32,7 +39,7 @@ Podczas instalacji wybrać system plików **ext4** zamiast domyślnego Btrfs.
 
 ---
 
-## 2. Docker
+## 2. Docker / Skillfish Ai nie startuje
 
 ### Objawy
 
@@ -92,12 +99,15 @@ PROCESSOR    100% GPU
 
 # Dodatkowe poradniki
 
-- [change_locale.md](change_locale.md) — zmiana języka z włoskiego (ITA) na angielski (ENG).
+- Zmiana języka w KDE Plasma z włoskiego (ITA) na angielski (ENG). [change_locale.md](change_locale.md)
+
+> Status: zgłoszono jako błąd w oryginalnym repozytorium SkillFishOS.
 
 ---
 
-# Powiązane zgłoszenia
+# Powiązane zgłoszenia w oryginalnym repozytorium
 
-- Btrfs / GRUB Rescue
-- Docker (brak grupy `docker`)
-- AMD iGPU / Ollama (`OLLAMA_IGPU_ENABLE=1`)
+- [Btrfs / GRUB Rescue](https://github.com/MTSistemi/SkillFishOS/issues/12)
+- [Docker – użytkownik nie jest dodawany do grupy `docker`](https://github.com/MTSistemi/SkillFishOS/issues/13)
+- [AMD iGPU / Ollama (`OLLAMA_IGPU_ENABLE=1`)](https://github.com/MTSistemi/SkillFishOS/issues/14)
+- [KDE Plasma – problemy z lokalizacją (ITA / ENG)](https://github.com/MTSistemi/SkillFishOS/issues/11)
